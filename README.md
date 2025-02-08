@@ -3,15 +3,15 @@
    $ git init
    Initialized empty Git repository in /ruta/a/tu/carpeta/.git/
 
-2. Añadir el archivo `hola.cpp` al repositorio:
-   $ git add hola.cpp
+2. Añadir el archivo `suma.c++` al repositorio:
+   $ git add suma.c++
    $ git add .
 
 3. Realizar el commit con el mensaje:
    $ git commit -m "Agregar programa de suma en C++"
    [master (root-commit) a1b2c3d] Agregar programa de suma en C++
    1 file changed, 12 insertions(+)
-   create mode 100644 hola.cpp
+   create mode 100644 suma.c++
 
 4. Vincular el repositorio local con el repositorio remoto en GitHub:
    $ git remote add origin https://github.com/tu-usuario/tu-repositorio.git
