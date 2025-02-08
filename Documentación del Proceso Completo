@@ -2,24 +2,29 @@
 
 1. Crear el programa en C++:
 
-El código hola.cpp suma tres números, los cuales son 53, -27 y 0.005. El resultado se imprime en la consola.
+El código suma.c++ suma tres números, los cuales son 53, -27 y 0.005. El resultado se imprime en la consola.
+
 2. Compilación y ejecución:
 
-El programa se compila usando el comando g++ hola.cpp -o hola y se ejecuta con ./hola.
+El programa se compila usando el comando g++ hola.cpp -o hola y se ejecuta con ./suma.
+
 3. Uso de Git para gestionar el código:
 
-Se inicializa un repositorio local con git init, se añade el archivo hola.cpp al área de preparación con git add, y se realiza el primer commit con git commit -m "Primer commit".
+Se inicializa un repositorio local con git init, se añade el archivo suma.c++ al área de preparación con git add, y se realiza el primer commit con git commit -m "Primer commit".
+
 4. Subida a GitHub:
 
 Se vincula el repositorio local con GitHub y se realiza un git push para subir el código al repositorio remoto.
+
 5. Log de Git:
 
 Se muestra el historial de los commits realizados con git log --oneline, lo que permite ver el estado del repositorio en cualquier momento.
 Capturas de pantalla (Screenshots):
 Captura de la terminal de VS Code donde se ejecutan los comandos de compilación y ejecución.
-Captura de la interfaz de VS Code mostrando el código fuente de hola.cpp.
-Captura del repositorio en GitHub mostrando el archivo hola.cpp cargado correctamente.
+Captura de la interfaz de VS Code mostrando el código fuente de suma.c++.
+Captura del repositorio en GitHub mostrando el archivo suma.c++ cargado correctamente.
 Análisis del Resultado de la Experiencia:
+
 Qué se hizo:
 
 Se creó un programa en C++ para sumar tres números y mostrar el resultado. Luego, se gestionó el código usando Git y se subió a GitHub.
