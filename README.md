@@ -28,3 +28,7 @@
    $ git log --oneline
    a1b2c3d (HEAD -> master) Agregar programa de suma en C++
    d4e5f6g Mensaje de commit anterior
+<img width="1430" alt="Screen Shot 2025-02-07 at 10 01 46 PM" src="https://github.com/user-attachments/assets/36420fc6-44fa-48f0-83dc-9370f4f90299" />
+
+![Uploading Screen Shot 2025-02-07 at 10.01.46 PM.png…]()
+
